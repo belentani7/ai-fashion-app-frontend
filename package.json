@@ -16,7 +16,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^13.2.0",
     "gsap": "^3.15.0",
-    "lucide-react": "^14.1.0",
+    "lucide-react": "^1.49.0",
     "postcss": "^8.5.28",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
